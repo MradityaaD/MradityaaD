@@ -1,210 +1,160 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,40:0ea5e9,100:22d3ee&height=260&section=header&text=RADITYA.AI&fontSize=80&fontColor=e0f2fe&fontAlignY=40&desc=Muhammad%20Raditya%20Duta%20Pratama%20%E2%80%A2%20Model%20v2026%20%E2%80%A2%20PPLG%20Engineer&descSize=17&descAlignY=64&animation=twinkling" width="100%" alt="RADITYA.AI"/>
-
-<a href="https://github.com/MradityaaD">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=760&height=60&lines=%3E%3E%3E+import+raditya+as+ai;%3E%3E%3E+model.load%28%22SMK_TI_Dwi_Guna%22%29;%3E%3E%3E+training%3A+HTML+%7C+CSS+%7C+Logic+%7C+UI+%7C+Game;%3E%3E%3E+accuracy%3A+learning_rate+%3D+HIGH+%F0%9F%93%88;%3E%3E%3E+deploy%28target%3D%22PKL%22%29+%E2%9C%85" alt="typing"/>
-</a>
-
-<br/><br/>
-
-![Model](https://img.shields.io/badge/MODEL-RADITYA--v2026-0ea5e9?style=for-the-badge&logo=openai&logoColor=white&labelColor=020617)
-![Major](https://img.shields.io/badge/MAJOR-PPLG-22d3ee?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=020617)
-![Status](https://img.shields.io/badge/STATUS-READY%20FOR%20PKL-10b981?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=020617)
-![Region](https://img.shields.io/badge/HOST-BOGOR%2C%20ID-6366f1?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=020617)
-
-</div>
-
----
-
-## 🧠 `MODEL_CARD.md`
-
-> *"Siswa aktif SMK TI Dwi Guna jurusan PPLG (Pengembangan Perangkat Lunak dan Gim) yang disiplin, memiliki motivasi belajar tinggi, serta siap mengikuti program PKL untuk menambah pengalaman di dunia kerja."*
-
-| Parameter | Value |
-| :-- | :-- |
-| 🏷️ **Model Name** | Muhammad Raditya Duta Pratama |
-| 🎓 **Architecture** | Siswa PPLG — SMK TI Dwi Guna (Kelas XI PPLG 1) |
-| 📍 **Deployed At** | Bogor, Jawa Barat 🇮🇩 |
-| 🎯 **Primary Task** | Web Development · UI Design · Game Development |
-| ⚙️ **Core Abilities** | Pemrograman dasar · Pengoperasian komputer · Problem solving · Teamwork |
-| 🔋 **Learning Rate** | `high` — adaptif, disiplin, kemauan belajar tinggi |
-| 🚀 **Next Deployment** | Program PKL (Praktik Kerja Lapangan) |
-
----
-
-## 🕸️ `NEURAL_ARCHITECTURE`
-
-Alur belajar dan kemampuan saya, digambarkan seperti sebuah neural network:
-
-```mermaid
-flowchart LR
-    subgraph INPUT["📥 INPUT LAYER"]
-        A1["Motivasi Belajar Tinggi"]
-        A2["Disiplin"]
-        A3["Adaptif"]
-    end
-    subgraph HIDDEN["🧠 HIDDEN LAYERS"]
-        B1["Logika Pemrograman"]
-        B2["HTML + CSS"]
-        B3["Figma + Canva"]
-        B4["Scratch Logic"]
-    end
-    subgraph OUTPUT["📤 OUTPUT LAYER"]
-        C1["🌐 Website Responsif"]
-        C2["🎨 UI / Prototype"]
-        C3["🎮 Game 2D"]
-    end
-    A1 --> B1
-    A2 --> B2
-    A3 --> B3
-    A1 --> B4
-    B1 --> C1
-    B2 --> C1
-    B3 --> C2
-    B4 --> C3
-    B1 --> C3
-    B3 --> C1
-```
-
----
-
-## ⚡ `TRAINING_DATA` — Skill Set
+<!-- GANTI "USERNAME" dengan username GitHub kamu -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,github,vscode&theme=dark" alt="skills"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00f5ff&height=220&section=header&text=MUHAMMAD%20RADITYA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DUTA%20PRATAMA&descSize=26&descAlignY=58&descColor=00f5ff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+Initializing+future+developer...;%3E+Siswa+SMK+%7C+PPLG+%28Software+%26+Game+Dev%29;%3E+Building+tomorrow%2C+one+line+of+code+at+a+time;%3E+Ready+for+PKL.+Ready+for+the+future." alt="Typing SVG" />
+
 <br/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="canva"/>
-<img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="scratch"/>
-<img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="office"/>
+
+![Status](https://img.shields.io/badge/STATUS-OPEN_FOR_PKL-00f5ff?style=for-the-badge&labelColor=0f0c29)
+![Role](https://img.shields.io/badge/ROLE-STUDENT_DEVELOPER-a855f7?style=for-the-badge&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/BASE-BOGOR,_ID-ff2e97?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
-```text
-┌──────────────────────────── TRAINING PROGRESS ────────────────────────────┐
-│                                                                           │
-│  🌐 Pemrograman Web (HTML/CSS)   ████████████░░░░░░░░  Dasar → Menengah   │
-│  🧩 Logika Pemrograman           ███████████░░░░░░░░░  Dasar → Menengah   │
-│  🎨 Design & Layouting (Figma)   ████████████░░░░░░░░  Dasar → Menengah   │
-│  🎮 Game Logic (Scratch)         ███████████░░░░░░░░░  Dasar → Menengah   │
-│  🛠️ VS Code & MS Office          █████████████░░░░░░░  Terbiasa           │
-│  🤝 Teamwork & Adaptasi          ██████████████░░░░░░  Kuat               │
-│                                                                           │
-│  epoch: 2026/2027 ▸ loss ↓ decreasing ▸ skill ↑ increasing                │
-└───────────────────────────────────────────────────────────────────────────┘
+---
+
+## `> whoami`
+
+```js
+const raditya = {
+  name: "Muhammad Raditya Duta Pratama",
+  role: "Siswa SMK TI Dwi Guna — Kelas XI PPLG",
+  major: "Pengembangan Perangkat Lunak dan Gim",
+  location: "Bogor, Jawa Barat 🇮🇩",
+  traits: ["Disiplin", "Adaptif", "Cepat belajar", "Team player"],
+  currentMission: "Mencari tempat PKL untuk menambah pengalaman di dunia kerja",
+  motto: "Learn today, build the future tomorrow."
+};
 ```
 
-| 🧬 Kemampuan | 📋 Detail |
+Siswa aktif SMK TI Dwi Guna jurusan PPLG yang disiplin dan punya motivasi belajar tinggi. Memiliki pemahaman dasar pemrograman, pengoperasian komputer, *problem solving*, serta mampu bekerja sama dalam tim.
+
+---
+
+## `> load skills --all`
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-FF9D00?style=for-the-badge&logo=scratch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+</div>
+
+| 🧩 Modul | ⚡ Kemampuan |
 | :-- | :-- |
 | **Pemrograman Web** | Menguasai dasar HTML, CSS, dan logika pemrograman untuk pembuatan website |
-| **Design & Layouting** | Mampu merancang alur tampilan (wireframe) dan UI menggunakan Figma & Canva |
-| **Tools Pemrograman** | Terbiasa menggunakan VS Code untuk penulisan kode dan MS Office untuk dokumentasi |
-| **Soft Skill** | Adaptif, kemauan belajar tinggi, disiplin, dan mampu bekerja sama dalam tim |
+| **Design & Layouting** | Merancang alur tampilan (wireframe) dan UI menggunakan Figma & Canva |
+| **Tools** | VS Code untuk penulisan kode, MS Office untuk dokumentasi |
+| **Soft Skills** | Adaptif, kemauan belajar tinggi, disiplin, dan mampu bekerja sama dalam tim |
 
 ---
 
-## 🚀 `DEPLOYED_PROJECTS`
+## `> ls ./projects`
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
 
-### 🌐 `web.model`
-**Membuat Website Sederhana**
+### 🌐 Web
+**Website Sederhana**
+
+- Membuat tampilan website statis dengan HTML & CSS
+- Merancang tata letak halaman yang rapi dan responsif
+- Mempelajari struktur dasar pemrograman web & pengelolaan file proyek
 
 `HTML` `CSS`
 
-- ✅ Tampilan website statis dengan HTML & CSS
-- ✅ Tata letak rapi dan **responsif** saat diakses
-- ✅ Mempelajari struktur dasar pemrograman web & pengelolaan file proyek
+</td>
+    <td width="33%" valign="top">
+
+### 🎨 Desain
+**UI Aplikasi di Figma**
+
+- Merancang alur & tampilan antarmuka (wireframe/prototype)
+- Menyusun elemen visual: warna, tombol, dan tata letak sesuai arahan tugas sekolah
+
+`Figma` `Canva`
 
 </td>
-<td width="33%" valign="top">
+    <td width="33%" valign="top">
 
-### 🎨 `design.model`
-**Desain Antarmuka Aplikasi**
+### 🎮 Game
+**Flappy Bird 2D**
 
-`Figma`
-
-- ✅ Alur & tampilan antarmuka (**wireframe / prototype**)
-- ✅ Elemen visual: warna, tombol, dan tata letak
-- ✅ Sesuai arahan tugas sekolah
-
-</td>
-<td width="33%" valign="top">
-
-### 🎮 `game.model`
-**Game Flappy Bird 2D**
+- Membuat game interaktif Flappy Bird dengan logika blok Scratch
+- Mengatur alur permainan: tampilan awal (start), rintangan, hingga game over
 
 `Scratch`
 
-- ✅ Game interaktif berbasis logika blok pemrograman
-- ✅ Alur lengkap: **start → rintangan → game over**
-
 </td>
-</tr>
+  </tr>
 </table>
 
 ---
 
-## 📟 `INFERENCE_LOG` — Riwayat Pendidikan
+## `> cat education.log`
 
-```log
-[2026-2027] INFO   school  = "SMK TI Dwi Guna"
-[2026-2027] INFO   major   = "Pengembangan Perangkat Lunak dan Gim (PPLG)"
-[2026-2027] INFO   class   = "XI PPLG 1"
-[2026-2027] STATUS learning... ████████████████░░░░ 80%
-[NEXT]      TASK   PKL → apply knowledge in real-world industry
+```text
+┌──────────────────────────────────────────────────────┐
+│  🎓 SMK TI DWI GUNA                                  │
+│  Jurusan : Pengembangan Perangkat Lunak dan Gim      │
+│  Kelas   : XI PPLG 1                                 │
+│  Periode : 2026 — 2027                               │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎯 `FUTURE_ROADMAP` — Next Training Run
+## `> roadmap --future`
 
-- [x] **v1.0** — Dasar HTML & CSS
-- [x] **v1.1** — UI Design dengan Figma & Canva
-- [x] **v1.2** — Game 2D dengan Scratch
-- [ ] **v2.0** — JavaScript interaktif 🔄
-- [ ] **v2.1** — Backend & Database (PHP / MySQL) 🔄
-- [ ] **v2.2** — Python & dasar AI / Machine Learning 🔄
-- [ ] **v3.0** — 🚀 **PKL di industri software**
+```text
+[██████████░░░░░░░░░░] 50%  HTML & CSS Mastery
+[████████░░░░░░░░░░░░] 40%  JavaScript
+[██████░░░░░░░░░░░░░░] 30%  UI/UX Design
+[████░░░░░░░░░░░░░░░░] 20%  Game Development
+[██░░░░░░░░░░░░░░░░░░] 10%  Backend & Database
+```
+
+> *Progress di atas adalah target belajar, silakan sesuaikan angkanya sendiri.*
 
 ---
 
-## 📊 `GITHUB_TELEMETRY`
+## `> stats --github`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MradityaaD&show_icons=true&theme=radical&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=0ea5e9&text_color=e0f2fe" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MradityaaD&layout=compact&theme=radical&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e0f2fe" alt="languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=a855f7&text_color=ffffff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00f5ff&text_color=ffffff" />
 
-<img src="https://streak-stats.demolab.com?user=MradityaaD&theme=dark&hide_border=true&background=020617&ring=22d3ee&fire=0ea5e9&currStreakLabel=22d3ee" alt="streak"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff2e97&currStreakLabel=00f5ff" />
 
 </div>
 
 ---
 
-## 📡 `API_ENDPOINTS` — Hubungi Saya
+## `> connect --me`
 
 <div align="center">
 
-<a href="https://wa.me/6285774464144"><img src="https://img.shields.io/badge/WhatsApp-0857--7446--4144-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=020617" alt="WhatsApp"/></a>
-<a href="mailto:pratamaradityaa98@gmail.com"><img src="https://img.shields.io/badge/Gmail-pratamaradityaa98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" alt="Gmail"/></a>
+[![Email](https://img.shields.io/badge/Email-pratamaradityaa98@gmail.com-00f5ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29)](mailto:pratamaradityaa98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29)](https://github.com/USERNAME)
+
 <br/>
-<a href="https://github.com/MradityaaD"><img src="https://img.shields.io/badge/GitHub-MradityaaD-0ea5e9?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" alt="GitHub"/></a>
-<a href="cv-radit.jpeg"><img src="https://img.shields.io/badge/Download-CV-22d3ee?style=for-the-badge&logo=readme&logoColor=020617&labelColor=020617" alt="CV"/></a>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=%22The+future+belongs+to+those+who+build+it.%22;Terima+kasih+sudah+berkunjung+%F0%9F%9A%80" alt="Footer typing" />
 
-```python
-def contact(raditya):
-    if ada_ide or tawaran_kolaborasi or lowongan_pkl:
-        return "Hubungi saya — siap berkolaborasi! 🤝"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:020617&height=130&section=footer&text=Learning%20never%20stops%20%E2%80%A2%20model.fit%28%29&fontSize=20&fontColor=e0f2fe&fontAlignY=65" width="100%" alt="footer"/>
-
-<sub>🤖 Trained with curiosity · Optimized by discipline · © 2026 Muhammad Raditya Duta Pratama</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
