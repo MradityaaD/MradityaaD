@@ -1,87 +1,54 @@
-<div align="center">
+# Muhammad Raditya Duta Pratama
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=2E3A4F&center=true&vCenter=true&width=700&height=60&lines=Muhammad+Raditya+Duta+Pratama;Siswa+PPLG+%7C+Pembuat+Website;Perancang+UI+dengan+Figma;Pembuat+Game+dengan+Scratch" alt="Typing animation" />
+**Siswa SMK · Web Developer & Game Developer**
 
-<p>
-  <img src="https://img.shields.io/badge/status-belajar-2E3A4F?style=for-the-badge" alt="status" />
-  <img src="https://img.shields.io/badge/jurusan-PPLG-8FB3E9?style=for-the-badge" alt="jurusan" />
-  <img src="https://img.shields.io/badge/lokasi-Bogor-C5D8F5?style=for-the-badge&labelColor=2E3A4F" alt="lokasi" />
-</p>
-
-</div>
+Siswa aktif SMK TI Dwi Guna jurusan PPLG (Pengembangan Perangkat Lunak dan Gim). Disiplin, bermotivasi belajar tinggi, dan siap mengikuti program PKL untuk menambah pengalaman di dunia kerja.
 
 ---
 
-## 👋 Tentang Saya
+## Tentang Saya
 
-> Siswa aktif SMK TI Dwi Guna jurusan Pengembangan Perangkat Lunak dan Gim (PPLG). Disiplin, bermotivasi belajar tinggi, dan siap bekerja sama dalam tim. Memiliki dasar pemrograman, pengoperasian komputer, serta kemampuan problem solving.
+Memiliki pemahaman dasar pemrograman, pengoperasian komputer, dan problem solving. Terbiasa bekerja sama dalam tim dan terbuka untuk terus belajar hal baru.
 
-## 🧰 Tech Stack
+## Kemampuan
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,figma,vscode" alt="skill icons" />
-</p>
+| Kategori   | Teknologi                          |
+| ---------- | ---------------------------------- |
+| Frontend   | HTML5, CSS3, JavaScript            |
+| Backend    | PHP, MySQL, Python                 |
+| Desain     | Figma, Canva                       |
+| Tools      | VS Code, GitHub, MS Office         |
 
-<p>
-  <img src="https://img.shields.io/badge/Scratch-FF8C1A?style=flat-square&logo=scratch&logoColor=white" alt="Scratch" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
-</p>
+**Soft skill:** adaptif, kemauan belajar tinggi, disiplin, dan kerja sama tim.
 
-## 🚀 Projects
+## Proyek
 
 ### 🌐 Website Sederhana
-
-Website statis yang dibangun dengan **HTML** dan **CSS**.
-
-- Membuat tampilan halaman web statis dengan struktur yang rapi
-- Merancang tata letak yang responsif agar nyaman diakses di berbagai perangkat
-- Mempelajari struktur dasar pemrograman web dan pengelolaan file proyek
+Membuat tampilan website statis dengan HTML dan CSS, dengan tata letak yang rapi dan responsif. Fokus pada struktur dasar pemrograman web dan pengelolaan file proyek.
 
 ### 🎨 Desain Antarmuka Aplikasi
+Merancang alur dan tampilan antarmuka (wireframe/prototype) aplikasi menggunakan Figma, lengkap dengan pemilihan warna, tombol, dan tata letak.
 
-Perancangan antarmuka aplikasi menggunakan **Figma**.
+### 🎮 Game Flappy Bird 2D
+Membuat game interaktif Flappy Bird menggunakan blok pemrograman Scratch, mulai dari tampilan awal, rintangan, hingga game over.
 
-- Membuat wireframe dan prototype alur aplikasi
-- Menyusun elemen visual seperti warna, tombol, dan tata letak sesuai arahan tugas
+## Pendidikan
 
-### 🐦 Flappy Bird 2D
+**SMK TI Dwi Guna** — Pengembangan Perangkat Lunak dan Gim (PPLG)
+Kelas XI · 2026 – 2027
 
-Game interaktif Flappy Bird yang dibuat dengan **Scratch**.
+## Kontak
 
-- Menerapkan logika blok pemrograman untuk mekanik permainan
-- Mengatur alur permainan dari tampilan awal (start), rintangan, hingga game over
-
-## 🛠️ Kemampuan
-
-| Bidang | Keterangan |
-|---|---|
-| 💻 **Pemrograman Web** | Dasar HTML, CSS, dan logika pemrograman untuk membuat website |
-| 🎨 **Desain & Layouting** | Merancang wireframe dan UI menggunakan Figma & Canva |
-| 🧩 **Game** | Membuat game 2D interaktif dengan Scratch |
-| ⚙️ **Tools** | VS Code untuk penulisan kode, MS Office untuk dokumentasi |
-
-Soft skills: adaptif, cepat belajar, disiplin, dan kerja sama tim.
-
-## 🎓 Pendidikan
-
-- **SMK TI Dwi Guna**, Kelas XI PPLG 1 (2026 – 2027)
-- Jurusan Pengembangan Perangkat Lunak dan Gim (PPLG)
-
-## 📫 Kontak
-
-- 📧 [pratamaraditya98@gmail.com](mailto:pratamaraditya98@gmail.com)
+- 📧 Email: [pratamaradityaa98@gmail.com](mailto:pratamaradityaa98@gmail.com)
+- 📱 WhatsApp: [+62 857-7446-4144](https://wa.me/6285774464144)
+- 💻 GitHub: [github.com/MradityaaD](https://github.com/MradityaaD)
 - 📍 Bogor, Jawa Barat
 
-## 📊 GitHub Stats
+## Dokumen
 
-<!-- Ganti USERNAME dengan username GitHub kamu -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-</p>
+- 📄 [Curriculum Vitae](cv-radit.jpeg)
+- 🌐 [Halaman Portofolio](index.html)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C5D8F5&height=120&section=footer" alt="footer" />
-</p>
+<p align="center"><sub>© 2026 Muhammad Raditya Duta Pratama</sub></p>
