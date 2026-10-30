@@ -44,11 +44,4 @@ Kelas XI · 2026 – 2027
 - 💻 GitHub: [github.com/MradityaaD](https://github.com/MradityaaD)
 - 📍 Bogor, Jawa Barat
 
-## Dokumen
 
-- 📄 [Curriculum Vitae](cv-radit.jpeg)
-- 🌐 [Halaman Portofolio](index.html)
-
----
-
-<p align="center"><sub>© 2026 Muhammad Raditya Duta Pratama</sub></p>
