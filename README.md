@@ -69,12 +69,11 @@
 
 <img src="assets/stats-banner.svg" alt="Analytics core" width="100%"/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=MradityaaD&show_icons=true&hide_border=true&bg_color=0b1a3a&title_color=38bdf8&icon_color=3b82f6&text_color=e2e8f0&ring_color=22d3ee&title_prefix=Raditya%27s" alt="GitHub stats"/>
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MradityaaD&layout=compact&hide_border=true&bg_color=0b1a3a&title_color=38bdf8&text_color=e2e8f0" alt="Top languages"/>
+
+<img src="https://img.shields.io/badge/REPOSITORIES-7-3b82f6?style=for-the-badge&labelColor=0b1a3a" alt="Repositories"/>
+<img src="https://img.shields.io/github/followers/MradityaaD?label=FOLLOWERS&style=for-the-badge&color=22d3ee&labelColor=0b1a3a" alt="Followers"/>
 
 <img src="https://streak-stats.demolab.com/?user=MradityaaD&hide_border=true&background=0b1a3a&ring=22d3ee&fire=3b82f6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MradityaaD&bg_color=0b1a3a&color=38bdf8&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="Contribution activity" width="100%"/>
 
 </div>
 
