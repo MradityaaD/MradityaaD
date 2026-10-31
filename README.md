@@ -1,47 +1,89 @@
-# Muhammad Raditya Duta Pratama
+<div align="center">
 
-**Siswa SMK · Web Developer & Game Developer**
+<img src="assets/header.svg" alt="Muhammad Raditya Duta Pratama - Siswa SMK PPLG" width="100%"/>
 
-Siswa aktif SMK TI Dwi Guna jurusan PPLG (Pengembangan Perangkat Lunak dan Gim). Disiplin, bermotivasi belajar tinggi, dan siap mengikuti program PKL untuk menambah pengalaman di dunia kerja.
+<img src="assets/badges.svg" alt="Status, sekolah, jurusan, kelas, lokasi" width="100%"/>
 
----
+<img src="https://komarev.com/ghpvc/?username=MradityaaD&label=VISITORS&color=0ea5e9&style=for-the-badge" alt="Visitor count"/>
+<img src="https://img.shields.io/github/followers/MradityaaD?label=FOLLOWERS&style=for-the-badge&color=3b82f6&labelColor=0b1a3a" alt="Followers"/>
+<img src="https://img.shields.io/badge/OPEN%20FOR-PKL-22d3ee?style=for-the-badge&labelColor=0b1a3a" alt="Open for PKL"/>
 
-## Tentang Saya
+</div>
 
-Memiliki pemahaman dasar pemrograman, pengoperasian komputer, dan problem solving. Terbiasa bekerja sama dalam tim dan terbuka untuk terus belajar hal baru.
+<br/>
 
-## Kemampuan
+<img src="assets/title-about.svg" alt="About Me" width="100%"/>
 
-| Kategori   | Teknologi                          |
-| ---------- | ---------------------------------- |
-| Frontend   | HTML5, CSS3, JavaScript            |
-| Backend    | PHP, MySQL, Python                 |
-| Desain     | Figma, Canva                       |
-| Tools      | VS Code, GitHub, MS Office         |
+<div align="center">
+<img src="assets/about.svg" alt="Tentang Raditya: bio, pendidikan, focus, learning, fun fact" width="100%"/>
+</div>
 
-**Soft skill:** adaptif, kemauan belajar tinggi, disiplin, dan kerja sama tim.
+<br/>
 
-## Proyek
+<img src="assets/title-tech.svg" alt="Tech Stack and Skillset" width="100%"/>
 
-### 🌐 Website Sederhana
-Membuat tampilan website statis dengan HTML dan CSS, dengan tata letak yang rapi dan responsif. Fokus pada struktur dasar pemrograman web dan pengelolaan file proyek.
+<div align="center">
+<img src="assets/tech.svg" alt="HTML, CSS, JavaScript, PHP, MySQL, Figma, Canva, VS Code, Git, GitHub, MS Office" width="100%"/>
+</div>
 
-### 🎨 Desain Antarmuka Aplikasi
-Merancang alur dan tampilan antarmuka (wireframe/prototype) aplikasi menggunakan Figma, lengkap dengan pemilihan warna, tombol, dan tata letak.
+<br/>
 
-### 🎮 Game Flappy Bird 2D
-Membuat game interaktif Flappy Bird menggunakan blok pemrograman Scratch, mulai dari tampilan awal, rintangan, hingga game over.
+<img src="assets/title-projects.svg" alt="Featured Projects" width="100%"/>
 
-## Pendidikan
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://takdirkesatria.netlify.app/"><img src="assets/p1.svg" alt="The Hidden Swordmaster System Awakening" width="100%"/></a><br/>
+      <a href="https://takdirkesatria.netlify.app/"><b>▶ Main Game</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/game_rpgmaker"><b>Repo</b></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://mradityaad.github.io/webeduu/"><img src="assets/p2.svg" alt="WebEdu" width="100%"/></a><br/>
+      <a href="https://mradityaad.github.io/webeduu/"><b>▶ Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/webeduu"><b>Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://webwmart.gt.tc/"><img src="assets/p3.svg" alt="PlengerToSmart" width="100%"/></a><br/>
+      <a href="https://webwmart.gt.tc/"><b>▶ Live Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/websmart"><b>Repo</b></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&p=f&t=tQZ3i0shEoMN2dyk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1"><img src="assets/p4.svg" alt="Kantin Modern UI/UX" width="100%"/></a><br/>
+      <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&p=f&t=tQZ3i0shEoMN2dyk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1"><b>▶ Prototype</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/makan"><b>Repo</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/p5.svg" alt="Flappy Bird 2D (Scratch)" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/p6.svg" alt="Next Mission" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-**SMK TI Dwi Guna** — Pengembangan Perangkat Lunak dan Gim (PPLG)
-Kelas XI · 2026 – 2027
+<br/>
 
-## Kontak
+<img src="assets/title-stats.svg" alt="GitHub Analytics and Stats" width="100%"/>
 
-- 📧 Email: [pratamaradityaa98@gmail.com](mailto:pratamaradityaa98@gmail.com)
-- 📱 WhatsApp: [+62 857-7446-4144](https://wa.me/6285774464144)
-- 💻 GitHub: [github.com/MradityaaD](https://github.com/MradityaaD)
-- 📍 Bogor, Jawa Barat
+<div align="center">
 
+<img src="assets/stats-banner.svg" alt="Analytics core" width="100%"/>
 
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=MradityaaD&show_icons=true&hide_border=true&bg_color=0b1a3a&title_color=38bdf8&icon_color=3b82f6&text_color=e2e8f0&ring_color=22d3ee&title_prefix=Raditya%27s" alt="GitHub stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MradityaaD&layout=compact&hide_border=true&bg_color=0b1a3a&title_color=38bdf8&text_color=e2e8f0" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=MradityaaD&hide_border=true&background=0b1a3a&ring=22d3ee&fire=3b82f6&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=94a3b8" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MradityaaD&bg_color=0b1a3a&color=38bdf8&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" alt="Contribution activity" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="assets/footer.svg" alt="Designed and Built by Radit - Keep Coding, Keep Building" width="100%"/>
+
+**Designed & Built by Radit | Keep Coding, Keep Building 🎯**
+
+</div>
