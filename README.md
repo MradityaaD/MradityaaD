@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Muhammad Raditya Duta Pratama - Siswa SMK PPLG | Siap PKL | SMK TI Dwi Guna | XI PPLG 1 | Bogor" width="100%">
+<img src="header.svg" alt="Muhammad Raditya Duta Pratama - Siswa SMK PPLG | Siap PKL | SMK TI Dwi Guna | XI PPLG 1 | Bogor" width="100%">
 
 </div>
 
-<img src="assets/title-about.svg" alt="About me" width="100%">
+<img src="title-about.svg" alt="About me" width="100%">
 
 <div align="center">
-<img src="assets/about.svg" alt="Bio, pendidikan, focus, learning, fun fact" width="100%">
+<img src="about.svg" alt="Bio, pendidikan, focus, learning, fun fact" width="100%">
 </div>
 
 <details>
@@ -23,41 +23,41 @@
 
 </details>
 
-<img src="assets/title-tech.svg" alt="Tech stack" width="100%">
+<img src="title-tech.svg" alt="Tech stack" width="100%">
 
 <div align="center">
-<img src="assets/skills.svg" alt="HTML, CSS, JavaScript, PHP, MySQL, VS Code, Git, GitHub, MS Office, Figma, Canva" width="100%">
+<img src="skills.svg" alt="HTML, CSS, JavaScript, PHP, MySQL, VS Code, Git, GitHub, MS Office, Figma, Canva" width="100%">
 </div>
 
-<img src="assets/title-projects.svg" alt="Featured projects" width="100%">
+<img src="title-projects.svg" alt="Featured projects" width="100%">
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://takdirkesatria.netlify.app/"><img src="assets/project-1.svg" alt="Takdir Kesatria - game RPG Maker MZ" width="100%"></a>
+      <a href="https://takdirkesatria.netlify.app/"><img src="project-1.svg" alt="Takdir Kesatria - game RPG Maker MZ" width="100%"></a>
       <p align="center"><a href="https://takdirkesatria.netlify.app/"><b>Main game</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/game_rpgmaker"><b>Repo</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://mradityaad.github.io/webeduu/"><img src="assets/project-2.svg" alt="WebEdu - belajar web developer dari nol" width="100%"></a>
+      <a href="https://mradityaad.github.io/webeduu/"><img src="project-2.svg" alt="WebEdu - belajar web developer dari nol" width="100%"></a>
       <p align="center"><a href="https://mradityaad.github.io/webeduu/"><b>Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/webeduu"><b>Repo</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://webwmart.gt.tc/"><img src="assets/project-3.svg" alt="PlengerToSmart - platform edukasi PHP" width="100%"></a>
+      <a href="https://webwmart.gt.tc/"><img src="project-3.svg" alt="PlengerToSmart - platform edukasi PHP" width="100%"></a>
       <p align="center"><a href="https://webwmart.gt.tc/"><b>Demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/websmart"><b>Repo</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&p=f&t=tQZ3i0shEoMN2dyk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1"><img src="assets/project-4.svg" alt="Kantin Modern - desain UI/UX Figma" width="100%"></a>
+      <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&p=f&t=tQZ3i0shEoMN2dyk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1"><img src="project-4.svg" alt="Kantin Modern - desain UI/UX Figma" width="100%"></a>
       <p align="center"><a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&p=f&t=tQZ3i0shEoMN2dyk-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1"><b>Prototype Figma</b></a> &nbsp;|&nbsp; <a href="https://github.com/MradityaaD/makan"><b>Repo</b></a></p>
     </td>
   </tr>
 </table>
 
-<img src="assets/title-stats.svg" alt="Analytics" width="100%">
+<img src="title-stats.svg" alt="Analytics" width="100%">
 
 <div align="center">
-<img src="assets/stats.svg" alt="4 project, 11 tech dan tools, 3 bidang: web, desain, gim" width="100%">
+<img src="stats.svg" alt="4 project, 11 tech dan tools, 3 bidang: web, desain, gim" width="100%">
 </div>
 
 <br>
@@ -66,6 +66,6 @@
 
 **Kontak:** [pratamaradityaa98@gmail.com](mailto:pratamaradityaa98@gmail.com) &nbsp;|&nbsp; [github.com/MradityaaD](https://github.com/MradityaaD)
 
-<img src="assets/footer.svg" alt="Designed & Built by Radit | Keep Coding, Keep Building" width="100%">
+<img src="footer.svg" alt="Designed & Built by Radit | Keep Coding, Keep Building" width="100%">
 
 </div>
