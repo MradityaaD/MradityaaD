@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="header.svg" alt="Muhammad Raditya Duta Pratama, Siswa SMK PPLG, Web and Game Developer" width="100%">
+<img src="header.svg" alt="Muhammad Raditya Duta Pratama - Siswa SMK PPLG | Siap PKL | SMK TI Dwi Guna | XI PPLG 1 | Bogor" width="100%">
 
-<img src="badges.svg" alt="Status: Siswa aktif, Jurusan PPLG, Kelas XI PPLG 1, Siap PKL" width="100%">
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=MradityaaD&label=VISITORS&color=00ff66&style=for-the-badge&labelColor=000000" alt="Visitor count">
+<img src="title-about.svg" alt="About me" width="100%">
 
+<div align="center">
+<img src="about.svg" alt="Bio, pendidikan, focus, learning, fun fact" width="100%">
 </div>
 
 <br>
