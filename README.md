@@ -37,5 +37,3 @@ github analisis sesuai repository gw aja https://github.com/MradityaaD?tab=repos
 Designed & Built by Radit | Keep Coding, Keep Building 🎯
 
 
-jangan pernah pakai foto di cv jagan pernah yayayyayayaah sama bagian tulisanya untuk tulisan pentingkaya mungkin juul kasih aja warna hijaukalau teks putih aja biar jelas.
-jagan tambahkan gamail github atau contak apapun. rencananya gw mau up di bagian lain bukan di readme.md jaDi jangan kasih kontak apapun
