@@ -26,7 +26,9 @@
 <img src="title-tech.svg" alt="Tech Stack & Skillset" width="100%">
 
 <div align="center">
-<img src="skills.svg" alt="HTML, CSS, JavaScript, PHP, MySQL, VS Code, Git, GitHub, Figma, Canva" width="100%">
+<img src="techstack.svg" alt="Tech Stack" width="100%">
+<br><br>
+<img src="badges.svg" alt="Badges" width="100%">
 </div>
 
 <img src="title-projects.svg" alt="Featured Projects" width="100%">
@@ -36,45 +38,41 @@
     <td width="50%" valign="top" align="center">
       <a href="https://takdirkesatria.netlify.app/"><img src="project-1.svg" alt="The Hidden Swordmaster: System Awakening" width="100%"></a>
       <br>
-      <a href="https://takdirkesatria.netlify.app/"><img src="btn-play-game.svg" alt="btn-play-game" width="190"></a>
-      <a href="https://github.com/MradityaaD/game_rpgmaker"><img src="btn-source-code.svg" alt="Source code" width="190"></a>
+      <a href="https://takdirkesatria.netlify.app/"><img src="btn-play.svg" alt="Play Game" width="190"></a>
+      <a href="https://github.com/MradityaaD/game_rpgmaker"><img src="btn-repo.svg" alt="Source code" width="190"></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://mradityaad.github.io/webeduu/"><img src="project-2.svg" alt="WebEdu: Belajar Web dari Nol" width="100%"></a>
       <br>
-      <a href="https://mradityaad.github.io/webeduu/"><img src="btn-live-demo.svg" alt="btn-live-demo" width="190"></a>
-      <a href="https://github.com/MradityaaD/webeduu"><img src="btn-source-code.svg" alt="Source code" width="190"></a>
+      <a href="https://mradityaad.github.io/webeduu/"><img src="btn-demo.svg" alt="Live Demo" width="190"></a>
+      <a href="https://github.com/MradityaaD/webeduu"><img src="btn-repo.svg" alt="Source code" width="190"></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://webwmart.gt.tc/"><img src="project-3.svg" alt="PlengerToSmart" width="100%"></a>
       <br>
-      <a href="https://webwmart.gt.tc/"><img src="btn-live-demo.svg" alt="btn-live-demo" width="190"></a>
-      <a href="https://github.com/MradityaaD/websmart"><img src="btn-source-code.svg" alt="Source code" width="190"></a>
+      <a href="https://webwmart.gt.tc/"><img src="btn-demo.svg" alt="Live Demo" width="190"></a>
+      <a href="https://github.com/MradityaaD/websmart"><img src="btn-repo.svg" alt="Source code" width="190"></a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&amp;p=f&amp;t=tQZ3i0shEoMN2dyk-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=1%3A3&amp;show-proto-sidebar=1"><img src="project-4.svg" alt="Kantin Modern: UI/UX Design" width="100%"></a>
       <br>
-      <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&amp;p=f&amp;t=tQZ3i0shEoMN2dyk-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=1%3A3&amp;show-proto-sidebar=1"><img src="btn-figma-prototype.svg" alt="btn-figma-prototype" width="190"></a>
-      <a href="https://github.com/MradityaaD/makan"><img src="btn-source-code.svg" alt="Source code" width="190"></a>
+      <a href="https://www.figma.com/proto/R3tSyMyhLPU7x9ufMyvDVl/tugas-uprak?node-id=1-3&amp;p=f&amp;t=tQZ3i0shEoMN2dyk-1&amp;scaling=scale-down&amp;content-scaling=fixed&amp;page-id=0%3A1&amp;starting-point-node-id=1%3A3&amp;show-proto-sidebar=1"><img src="btn-figma.svg" alt="Figma Prototype" width="190"></a>
+      <a href="https://github.com/MradityaaD/makan"><img src="btn-repo.svg" alt="Source code" width="190"></a>
     </td>
   </tr>
 </table>
 
 <img src="title-analytics.svg" alt="GitHub Analytics & Activity" width="100%">
 
-### 1. General GitHub Stats Card
-<img src="stats-general.svg" alt="General GitHub stats" width="100%">
+<p align="center">
+  <img src="stats.svg" alt="GitHub Stats" width="48%" />
+  <img src="streak.svg" alt="GitHub Streak" width="48%" />
+</p>
 
-### 2. Top Languages Card
-<img src="stats-langs.svg" alt="Top languages" width="100%">
-
-### 3. GitHub Streak Tracker
-<img src="stats-streak.svg" alt="GitHub streak tracker" width="100%">
-
-### 4. Contribution / Activity Graph
-<img src="stats-activity.svg" alt="Contribution graph" width="100%">
+<img src="activity.svg" alt="Activity Graph" width="100%">
+<img src="languages.svg" alt="Top Languages" width="100%">
 
 <br>
 
