@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 66" width="1000" height="66" role="img">
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00ff66"/><stop offset="1" stop-color="#00ff66" stop-opacity="0"/></linearGradient><style>
+.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'Courier New',monospace} .sans{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+.g{fill:#00ff66} .w{fill:#f2f7f3} .m{fill:#8fb09a}
+</style></defs>
+<rect width="1000" height="66" rx="8" fill="#020502"/><text x="8" y="40" font-size="26" font-weight="800" class="mono g">&gt;_<animate attributeName="opacity" values="1;1;0;1" keyTimes="0;.6;.8;1" dur="1.2s" repeatCount="indefinite"/></text><text x="62" y="40" font-size="13" class="mono m">[05]</text><text x="108" y="41" font-size="27" font-weight="800" class="sans"><tspan class="w">GITHUB ANALYTICS &amp; </tspan><tspan class="g">ACTIVITY</tspan></text><rect x="8" y="54" width="984" height="2" fill="url(#ln)" opacity=".8"/><rect x="8" y="52" width="60" height="6" fill="#00ff66"><animate attributeName="x" values="8;932;8" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
